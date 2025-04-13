@@ -1,4 +1,4 @@
-# Colab Craft[Preview Edition (May contain bugs)]
+# Colab Craft[Preview Edition (**May contain bugs**)]
 
 Host your own **Minecraft Java Edition server** using **Google Colab** — and get access to **13GB of free RAM** with zero hosting cost!
 
