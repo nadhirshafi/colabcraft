@@ -17,7 +17,7 @@ Host your own **Minecraft Java Edition server** using **Google Colab** — and g
 ## 🔧 How to Use
 
 1. **Open the Colab notebook**  
-   [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/your-notebook-link-here](https://colab.research.google.com/drive/1ljlU9-NOdpMxq0fbsZkX2oXkEIJLaj13#scrollTo=kj4uP8r_6BlM))
+   [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg])](https://colab.research.google.com/your-notebook-link-here](https://colab.research.google.com/drive/1ljlU9-NOdpMxq0fbsZkX2oXkEIJLaj13#scrollTo=kj4uP8r_6BlM))
 
 2. **Run the setup cells**  
    Install Java, download the Minecraft server `.jar`, and configure the settings.
