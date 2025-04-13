@@ -24,6 +24,3 @@ Host your own **Minecraft Java Edition server** using **Google Colab** — and g
 
 3. **Start the server**  
    Connect to the displayed IP in Minecraft Java Edition.
-
-## 📁 Folder Structure
-
