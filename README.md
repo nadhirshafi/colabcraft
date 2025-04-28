@@ -2,14 +2,12 @@
 
 Host your own **Minecraft Java Edition server** using **Google Colab** — and get access to **13GB of free RAM** with zero hosting cost!
 
-> 💡 Ideal for testing, private multiplayer with friends, or running lightweight modded servers.
 
 ---
 
 ## 🚀 Features
 
 - 🆓 Run a Minecraft server for **free** using Colab's cloud resources  
-- 💾 **Persistent world** support (optional)  
 - 🧠 No VPS or paid hosting required  
 - 🧱 Supports Minecraft Java Edition (Vanilla, Fabric, Forge)
 
